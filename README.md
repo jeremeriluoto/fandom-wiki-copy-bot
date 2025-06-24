@@ -108,7 +108,7 @@ Field Explanation:
 username: "Mr.YourName@CopyBot"
 password: "bot-password"
 
-NOTE: nEVER SHARE THE PASSWORD AND BOT NAME TO ANYONE YOU DO NOT TRUST
+NOTE: NEVER SHARE THE PASSWORD AND BOT NAME TO ANYONE YOU DO NOT TRUST
 
 ---
 
