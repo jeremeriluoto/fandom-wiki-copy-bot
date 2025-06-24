@@ -1,0 +1,17 @@
+{
+  "name": "fandom-wiki-copy-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "jsdom": "^26.1.0"
+  }
+}
