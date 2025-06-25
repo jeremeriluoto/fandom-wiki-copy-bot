@@ -4,6 +4,8 @@ This bot copies and synchronizes pages from one Fandom wiki to another (or multi
 
 ---
 
+Important note: This script will OVERWRITE the targetwiki content with the sourcewiki. You will LOSE you targetwiki content.
+
 ## Prerequisites
 
 Before you can run the bot, install the following:
